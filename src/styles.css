@@ -1,0 +1,19 @@
+body {
+   background-color: rgb(5, 43, 168);
+   box-shadow: 0px 0px 5px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ #header{
+  box-shadow: 0px 0px 5px black;
+    background: #072ba8;
+    color: #d204b8;
+    text-shadow:1px 2px 1px yellow
+}
+.btn{
+  background-color: red;
+}
